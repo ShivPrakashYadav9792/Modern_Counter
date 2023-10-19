@@ -1,0 +1,40 @@
+ #baharwala{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #344151;
+ }
+ #midlle{
+    font-style: italic;
+    color:red;
+     font-size:medium;
+     margin-bottom: 35px;
+ }
+ #shiv{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction:row;
+    color:black;
+    border-radius: 10px; 
+
+ }
+
+.shiv{
+    font: bold;
+    padding: 7px 30px 7px 30px;
+ }
+
+.bu{
+    border-right: 2px;
+    border-color:brown;
+    padding-right: 23px;
+ }
+
+.bu2{
+    border-left: 2px;
+    border-color: brown;
+    padding-left:10px;
+}
